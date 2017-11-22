@@ -4,7 +4,7 @@
   <li><a href="https://tierra-verde.ru/">Студия ландшафтного дизайна</a></li>
  <li><a href="https://tierra-verde.ru/ozelenenie/">Oзеленение</a></li>
 <li><a href="https://tierra-verde.ru/ozelenenie/rulonnyj-gazon/">Укладка рулонного газона</a></li>
-  <li><a href="https://tierra-verde.ru/ozelenenie/posadka-rastenij/">Посадка деревьев и кустарников</a></li>
+  <li><a href="https://tierra-verde.ru/ozelenenie/posadka-rastenij/">Посадка и уход за деревьями, кустарниками</a></li>
   <li><a href="https://tierra-verde.ru/ozelenenie/montazh-avtopoliva/">Системы автополива</a></li>
     <li><a href="https://tierra-verde.ru//fitosteny/">Фитостены</a></li>
   <li><a href="https://tierra-verde.ru/landshaftny-dizain/">Ландшафтный дизайн</a></li>
